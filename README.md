@@ -15,7 +15,7 @@ Clone Repository :
 
     git clone https://github.com/rivalnofirm/Django-Docker.git
 
-To start project, run:
+To start project, run :
 
     docker-compose up
 
